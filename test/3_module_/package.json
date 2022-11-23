@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "require-math": "^3.3.1"
+  }
+}
